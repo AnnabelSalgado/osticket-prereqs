@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.By the end of this tutorial, you will be able to launch the osTicket help desk login page and End user osTicket Submission page. <br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -20,6 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/ddbb4903-1124-4882-bf3c-ff3da220f66d)
 
+The osTicket site shows the required prerequisites (shown above).After creating the Virtual Machine in Microsoft Azure, we will download a and install these. 
 
 <h2>Installation Steps</h2>
 
@@ -27,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is a file of what is needed to meet the Technical Requirements for osTicket. See the file  <a href="www.linkedin.com/in/annabel-salgado-69b67340">here</a>
+Here is a file of what is needed to meet the Technical Requirements for osTicket. See the file  <a href="www.linkedin.com/in/annabel-salgado-69b67340">here</a>. We will go through installing each of these independently in the steps that follow. 
 </p>
 <br />
 
@@ -36,8 +37,9 @@ Here is a file of what is needed to meet the Technical Requirements for osTicket
 </p>
 <p>
 We will start with enabling Internet Information Services (IIS)
-Follow the steps shown above
-Programs and Features -> update applications -> Internet Information Services -> World Wide Web Services -> Application Development Features -> Make sure "CGI" is checked
+Follow the steps in the order numbered above. 
+
+Click Programs and Features -> update applications -> Internet Information Services -> World Wide Web Services -> Application Development Features -> Make sure "CGI" is checked
 
 </p>
 <br />
