@@ -190,7 +190,8 @@ now on your osTicket Browser click Install Now!
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/60b3f562-917c-4f8c-858e-1e2d1b9cab43)
+
 </p>
 <p>
 
