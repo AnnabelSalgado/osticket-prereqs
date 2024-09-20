@@ -141,6 +141,7 @@ Open osTicket
 </p>
 <br />
 <p>
+  
 ![image](https://github.com/user-attachments/assets/35ed50b9-54af-4b6f-a6e0-ba326972f0c4)
 
 </p>
@@ -173,6 +174,7 @@ DON'T Click INSTALL NOW
 <br />
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/b9293572-1c97-4fc9-b843-d9926bf35cde)
 
 </p>
@@ -190,6 +192,7 @@ now on your osTicket Browser click Install Now!
 
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/60b3f562-917c-4f8c-858e-1e2d1b9cab43)
 
 </p>
