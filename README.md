@@ -118,7 +118,9 @@ Return to IIS Manager Home select your server, then on the right hand panel clic
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/e1110245-0043-489b-aff0-33e6e07a889e)
+
 </p>
 <p>
 Open osTicket
@@ -131,12 +133,16 @@ Open osTicket
     Enable: php_imap.dll
     Enable: php_intl.dll
     Enable: php_opcache.dll
-    Refresh the osTicket site in your browser, and you will see the extensions needed are now enabled. Do not click continue yet. 
+    Refresh the osTicket site in your browser, and you will see the extensions needed are now enabled (see below) . Do not click continue yet.
+
+    ![image](https://github.com/user-attachments/assets/ce64cb6a-5df9-4255-9276-d84052292ede)
+
 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/35ed50b9-54af-4b6f-a6e0-ba326972f0c4)
+
 </p>
 <p>
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
@@ -150,7 +156,9 @@ New Permissions -> Everyone -> All
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/afd8bb17-f23e-4c39-a800-e4767635d22a)
+
 </p>
 <p>
 Fill in the Highlighted fields 
