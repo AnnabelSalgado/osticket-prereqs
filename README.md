@@ -33,7 +33,8 @@ Here is a file of what is needed to meet the Technical Requirements for osTicket
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/c3ee499a-489b-4df2-844a-364de6a45d24)
+
 </p>
 <p>
 We will start with enabling Internet Information Services (IIS)
@@ -45,7 +46,8 @@ Click Programs and Features -> update applications -> Internet Information Servi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/f7d0a7bc-9f67-4b41-a79f-f1f9c9ef8be0)
+
 </p>
 <p>
 From the “osTicket-Installation-Files” folder install PHPManagerForIIS_V1.5.0.msi and rewrite_amd64_en-US.msi
