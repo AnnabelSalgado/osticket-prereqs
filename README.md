@@ -25,14 +25,17 @@ The osTicket site shows the required prerequisites (shown above).After creating 
 <h2>Installation Steps</h2>
 
 <p>
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
 Here is a file of what is needed to meet the Technical Requirements for osTicket. See the file  <a href="www.linkedin.com/in/annabel-salgado-69b67340">here</a>. We will go through installing each of these independently in the steps that follow. 
 </p>
 <br />
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/c3ee499a-489b-4df2-844a-364de6a45d24)
 
 </p>
@@ -46,6 +49,7 @@ Click Programs and Features -> update applications -> Internet Information Servi
 <br />
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/f7d0a7bc-9f67-4b41-a79f-f1f9c9ef8be0)
 
 </p>
