@@ -173,7 +173,8 @@ DON'T Click INSTALL NOW
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/b9293572-1c97-4fc9-b843-d9926bf35cde)
+
 </p>
 <p>
 From the “osTicket-Installation-Files” folder, install HeidiSQL 
