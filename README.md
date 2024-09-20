@@ -60,18 +60,23 @@ From the “osTicket-Installation-Files” folder install PHPManagerForIIS_V1.5.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/33281e2a-b32d-499f-bc16-44421e4bfa02)
+
+
 </p>
 <p>
 Create C:\PHP
   which means you go file explorer -> this PC -> Windows C: -> create New Folder named PHP
 
-Extract php-7.3.8-nts-Win32-VC15-x86.zip file into the PHP Folder 
+Extract php-7.3.8-nts-Win32-VC15-x86.zip from the “osTicket-Installation-Files” folder into the PHP Folder 
 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/c0f6d102-2b8d-44ac-bbe2-ccc3e00c4302)
+
 </p>
 
 <p>
