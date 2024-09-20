@@ -88,18 +88,24 @@ for mysql-5.5.62-win32.msi the steps are as follows:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/e12a4c06-ee20-4043-969d-73d642220f16)
+
+![image](https://github.com/user-attachments/assets/8378396e-c0be-4c18-9938-96a51d38ef63)
+
 </p>
 <p>
 Open IIS, select your server on the left hand side, click on PHP Manager
 -Register PHP and select php-cgi.exe from the C:\PHP folder created earlier.
+  
+![image](https://github.com/user-attachments/assets/ff8c5997-4d6f-4ed0-8741-a2d06c3acb3e)
 
 Return to IIS Manager Home select your server, then on the right hand panel click stop and then start. This reloads IIS with the changes you made. 
 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/c5ac2ea8-d4dd-4bfc-b83c-fed17ac355fa)
+
 </p>
 <p>
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
