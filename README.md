@@ -26,7 +26,8 @@ The osTicket site shows the required prerequisites (shown above).After creating 
 
 <p>
   
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/e398a658-d888-4b36-92bc-aff7744895f8)
+
 </p>
 
 <p>
