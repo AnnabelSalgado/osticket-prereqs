@@ -88,6 +88,7 @@ for mysql-5.5.62-win32.msi the steps are as follows:
 <br />
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/e12a4c06-ee20-4043-969d-73d642220f16)
 
 ![image](https://github.com/user-attachments/assets/8378396e-c0be-4c18-9938-96a51d38ef63)
