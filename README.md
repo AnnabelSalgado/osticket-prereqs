@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/ddbb4903-1124-4882-bf3c-ff3da220f66d)
 
-The osTicket site shows the required prerequisites (shown above).After creating the Virtual Machine in Microsoft Azure, we will download a and install these. 
+The osTicket site shows the required prerequisites (shown above).After creating the Virtual Machine in Microsoft Azure, we will download a and install these. Each of these is fundamental in having osTicket run properly whether it is mySQL for the database, enabling CGI to execute the scripts that osTicket is made of or HeidiSQL to access the mySQL database. 
 
 <h2>Installation Steps</h2>
 
